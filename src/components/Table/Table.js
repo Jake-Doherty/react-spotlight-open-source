@@ -1,6 +1,6 @@
 import React from 'react';
 import { Table, Column, HeaderCell, Cell } from 'rsuite-table';
-import 'rsuite-table/dist/css/rsuite-table.css';
+import 'rsuite-table/dist/css/rsuite-table.min.css';
 import plants from '../../plants-data.js';
 
 export default function Tables() {
